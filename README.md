@@ -3,7 +3,7 @@ Usando o conjunto de dados aerogerador.dat (variável de entrada: velocidade do 
 
 #### Demonstração gráfica de regressão polinomial de graus 2 a 5:
 
-![grafico](https://github.com/cesbrandao/regressaoPolinomial/blob/master/codes/img/regressao.jpg)
+![grafico](https://github.com/cesbrandao/regressaoPolinomial/blob/master/img/regressao.jpgg)
 
 #### Avaliação pelas métricas R² e R²ajustado:
 
