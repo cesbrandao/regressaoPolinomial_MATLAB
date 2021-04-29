@@ -8,5 +8,5 @@ Usando o conjunto de dados aerogerador.dat (variável de entrada: velocidade do 
 #### Avaliação pelas métricas R² e R²ajustado:
 
 <p align="center">
-  <img src="codes/img/tabela1.jpg" width="500" alt="accessibility text">
+  <img src="/img/tabela1.jpg" width="500" alt="accessibility text">
 </p>
