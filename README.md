@@ -1,4 +1,7 @@
 ### REGRESSÃO POLINOMIAL - MATLAB 
+
+#### Algoritmo desenvolvido no decorrer da disciplina de Inteligência Computacional do curso de Engenharia de Computação (UFC)
+
 Usando o conjunto de dados aerogerador.dat (variável de entrada: velocidade do vento – m/s, variável de saída: potência gerada – kWatts), determine os modelos de regressão polinomial  (graus  2,  3,  4  e  5)  com  parâmetros  estimados  pelo  método  dos  mínimos quadrados. Avalie a qualidade de cada modelo pela métrica R² e R²ajustado.
 
 #### Demonstração gráfica de regressão polinomial de graus 2 a 5:
